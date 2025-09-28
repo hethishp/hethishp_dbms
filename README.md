@@ -1,2 +1,2 @@
 # hethishp_dbms
-DBMS LAB WORKE
+DBMS LAB WORK
